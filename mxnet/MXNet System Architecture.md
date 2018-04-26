@@ -1,5 +1,6 @@
 # MXNet System Architecture
 
+![overview]overview.png
 这幅图展示了MXNet 系统主要模块和组成以及它们之间的交互。这些模块是：
 
 * Runtime Dependency Engine： 根据它们的读写依赖进行调度和执行操作。
