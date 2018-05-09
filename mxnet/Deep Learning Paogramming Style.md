@@ -1,4 +1,4 @@
-# Deep Learning Paogramming Style
+# Deep Learning Programming Style
 
 然而我们最终关心的是效率，在我们开始担心优化之前我们首先需要写代码。写清晰、直观的深度学习代码是有挑战性的。对于任何参与人的第一件事是解决使用哪种语言规则。很多深度学习库有自己的使用方式。
 
